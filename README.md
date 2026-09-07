@@ -1,3 +1,13 @@
+Disclaimer
+==========
+
+> [!CAUTION]
+> ( ˶°ㅁ°) !! **This is a fork of [Orange-OpenSource/ouds-android](https://github.com/Orange-OpenSource/ouds-android)**
+> 
+> The aim of this project is to submit evolutions.
+> This is not the official repository of the app.
+> You should not submit bug reports, issues or pull requests to this fork.
+
 # OUDS Android
 
 [![minSdkVersion](https://img.shields.io/badge/minSdkVersion-23-yellowgreen?logo=android&logoColor=white)](https://apilevels.com)
